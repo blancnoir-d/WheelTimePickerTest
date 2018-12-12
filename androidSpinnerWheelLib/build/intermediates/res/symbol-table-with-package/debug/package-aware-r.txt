@@ -1,0 +1,19 @@
+antistatic.spinnerwheel
+attr abstractWheelViewStyle
+attr isAllVisible
+attr isCyclic
+attr itemOffsetPercent
+attr itemsDimmedAlpha
+attr itemsPadding
+attr selectionDivider
+attr selectionDividerActiveAlpha
+attr selectionDividerDimmedAlpha
+attr selectionDividerHeight
+attr selectionDividerWidth
+attr visibleItems
+drawable wheel_bg_hor
+drawable wheel_bg_ver
+drawable wheel_val
+styleable AbstractWheelView isAllVisible isCyclic itemOffsetPercent itemsDimmedAlpha itemsPadding selectionDivider selectionDividerActiveAlpha selectionDividerDimmedAlpha visibleItems
+styleable WheelHorizontalView selectionDividerWidth
+styleable WheelVerticalView selectionDividerHeight

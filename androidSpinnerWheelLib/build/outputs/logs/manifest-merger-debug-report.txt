@@ -1,0 +1,23 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Project\SaehaMathFLAT_T\TimepickerTest\androidSpinnerWheelLib\src\main\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Project\SaehaMathFLAT_T\TimepickerTest\androidSpinnerWheelLib\src\main\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Project\SaehaMathFLAT_T\TimepickerTest\androidSpinnerWheelLib\src\main\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Project\SaehaMathFLAT_T\TimepickerTest\androidSpinnerWheelLib\src\main\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Project\SaehaMathFLAT_T\TimepickerTest\androidSpinnerWheelLib\src\main\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Project\SaehaMathFLAT_T\TimepickerTest\androidSpinnerWheelLib\src\main\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Project\SaehaMathFLAT_T\TimepickerTest\androidSpinnerWheelLib\src\main\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from C:\Project\SaehaMathFLAT_T\TimepickerTest\androidSpinnerWheelLib\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Project\SaehaMathFLAT_T\TimepickerTest\androidSpinnerWheelLib\src\main\AndroidManifest.xml
+		INJECTED from C:\Project\SaehaMathFLAT_T\TimepickerTest\androidSpinnerWheelLib\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Project\SaehaMathFLAT_T\TimepickerTest\androidSpinnerWheelLib\src\main\AndroidManifest.xml:4:29-54
+		INJECTED from C:\Project\SaehaMathFLAT_T\TimepickerTest\androidSpinnerWheelLib\src\main\AndroidManifest.xml
+		INJECTED from C:\Project\SaehaMathFLAT_T\TimepickerTest\androidSpinnerWheelLib\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Project\SaehaMathFLAT_T\TimepickerTest\androidSpinnerWheelLib\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Project\SaehaMathFLAT_T\TimepickerTest\androidSpinnerWheelLib\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Project\SaehaMathFLAT_T\TimepickerTest\androidSpinnerWheelLib\src\main\AndroidManifest.xml
+		INJECTED from C:\Project\SaehaMathFLAT_T\TimepickerTest\androidSpinnerWheelLib\src\main\AndroidManifest.xml

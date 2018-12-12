@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aigestudio="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:gravity="center"
+    android:orientation="horizontal">
+
+    텍스트
+    <com.aigestudio.wheelpicker.WheelPicker
+        android:id="@+id/main_wheel_ampm"
+        android:layout_width="105dp"
+        android:layout_height="350dp"
+        android:background="#ffffff"
+        aigestudio:wheel_atmospheric="true"
+        aigestudio:wheel_curved="false"
+        aigestudio:wheel_cyclic="false"
+        aigestudio:wheel_item_align="center"
+        aigestudio:wheel_item_text_color="#e0e0e0"
+        aigestudio:wheel_item_text_size="16sp"
+        aigestudio:wheel_selected_item_text_color="#4c4c4c"
+        />
+    <View
+        android:layout_width="1dp"
+        android:layout_height="350dp"
+        android:background="#e8e8e8"/>
+
+    <com.aigestudio.wheelpicker.WheelPicker
+        android:id="@+id/main_wheel_hour"
+        android:layout_width="105dp"
+        android:layout_height="350dp"
+        android:background="#ffffff"
+        aigestudio:wheel_atmospheric="true"
+        aigestudio:wheel_curved="false"
+        aigestudio:wheel_cyclic="true"
+        aigestudio:wheel_item_align="center"
+        aigestudio:wheel_item_text_color="#e0e0e0"
+        aigestudio:wheel_item_text_size="16sp"
+        aigestudio:wheel_selected_item_text_color="#4c4c4c"
+      />
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="350dp"
+        android:background="#e8e8e8"/>
+
+    <com.aigestudio.wheelpicker.WheelPicker
+        android:id="@+id/main_wheel_min"
+        android:layout_width="105dp"
+        android:layout_height="350dp"
+        android:background="#ffffff"
+        aigestudio:wheel_atmospheric="true"
+        aigestudio:wheel_curved="false"
+        aigestudio:wheel_cyclic="true"
+        aigestudio:wheel_item_align="center"
+        aigestudio:wheel_item_text_color="#e0e0e0"
+        aigestudio:wheel_item_text_size="16sp"
+        aigestudio:wheel_selected_item_text_color="#4c4c4c"
+        />
+
+
+</LinearLayout>
