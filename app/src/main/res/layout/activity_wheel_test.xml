@@ -7,7 +7,7 @@
     android:gravity="center"
     android:orientation="horizontal">
 
-    텍스트
+    <!--텍스트 스타일 변경을 못하는 걸로 확인-->
     <com.aigestudio.wheelpicker.WheelPicker
         android:id="@+id/main_wheel_ampm"
         android:layout_width="105dp"
